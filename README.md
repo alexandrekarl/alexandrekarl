@@ -5,8 +5,8 @@
 - 💬 Ask me about industrial engineering, circular economy and project management
 - 📫 How to reach me: alexandreaugustokarl@gmail.com
 - ⚡ Fun fact: I am a cold shower enthusiast
-- 
-- <div align="center">
+ 
+ <div align="center">
   <a href="https://github.com/alexandrekarl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandrekarl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrekarl&layout=compact&langs_count=7&theme=dracula"/>
