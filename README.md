@@ -1,8 +1,8 @@
 ### Greetings, adventurer! I am Alexandre Karl 👋
 
-- 🔭 I’m currently working at Green Cloud Nine
-- 🌱 I’m currently learning Python
-- 💬 Ask me about industrial engineering, circular economy and project management
+- 🔭 I’m currently working at TE Connectivity
+- 🌱 I’m currently learning SQL 
+- 💬 Ask me about Industrial Engineering, Supply Chain Mgmt, SAP 
 - 📫 How to reach me: alexandreaugustokarl@gmail.com
 - ⚡ Fun fact: I am a cold shower enthusiast
  
