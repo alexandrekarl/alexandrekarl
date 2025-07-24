@@ -1,7 +1,7 @@
 ### Greetings, adventurer! I am Alexandre Karl 👋
 
 - 🔭 I’m currently working at TE Connectivity
-- 🌱 I’m currently learning SQL 
+- 🌱 I’m currently learning PowerBI 
 - 💬 Ask me about Industrial Engineering, Supply Chain Mgmt, SAP 
 - 📫 How to reach me: alexandreaugustokarl@gmail.com
 - ⚡ Fun fact: I am a cold shower enthusiast
